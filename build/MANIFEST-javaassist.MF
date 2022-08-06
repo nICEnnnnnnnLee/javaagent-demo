@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: demo.Test
+Premain-Class: demo.javaagent.MyAgent
+Agent-Class: demo.javaagent.MyAgent
+Can-Redefine-Classes: true

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/javassist-3.28.0-GA.jar" sourcepath="C:/Users/LiJia/.m2/repository/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
